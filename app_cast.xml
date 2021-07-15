@@ -4,9 +4,19 @@
     <title>For unit test only</title>
     <item>
         <title>Version 6.0</title>
-        <description>desc Версия</description>
+        <description>
+          <![CDATA[
+            <h2>New Features</h2>
+            <ol>
+              <li>New feature 1</li>
+              <li>New feature 2</li>
+              <li>New feature 3</li>
+              <li>New feature 4</li>
+            </ol>
+          ]]>
+        </description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.0" />
+        <enclosure url="http://google.cl/" sparkle:version="6.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
