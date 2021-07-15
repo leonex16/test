@@ -4,12 +4,12 @@
     <title>For unit test only</title>
     <item>
         <title>Version 6.0</title>
-     <description><![CDATA[
-        <h2>New Features</h2>
-        ...
-    ]]>
-    </description>
-        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
+            <description><![CDATA[
+        <p>File uploads now working.</p>
+        <p>"Do not disturb" in notification center also mutes notification sound.</p>
+        <p>Window can now be closed while the app is still running and connected.</p>
+      ]]></description>
+        <pubDate>26 Jul 2014 15:20:11 +0000</pubDate>
         <enclosure url="http://google.cl/" sparkle:version="6.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
