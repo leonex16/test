@@ -4,11 +4,12 @@
     <title>For unit test only</title>
     <item>
         <title>Version 6.0</title>
-        <description>
+        <description><![CDATA[
         - New feature 1
         - New feature 2
         - New feature 3
         - New feature 4
+]]>
         </description>
         <pubDate>26 Jul 2014 15:20:11 +0000</pubDate>
         <enclosure url="http://google.cl/" sparkle:version="6.0" />
